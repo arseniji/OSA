@@ -26,6 +26,10 @@ public class BinaryTree {
         else parent.setRight(newNode);
         newNode.setParent(parent);
     }
+
+    public void addArray(int[] value){
+        for (int val:value) add(val);
+    }
     public int countRecursivelyDFS(){
         return recCount(root);
     }
