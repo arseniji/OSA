@@ -1,4 +1,4 @@
-package org.example.fill;
+package org.lr1.fill;
 
 public class IncreaseGenerator implements Generator<int[]> {
     @Override

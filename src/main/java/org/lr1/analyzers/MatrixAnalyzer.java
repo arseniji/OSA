@@ -1,12 +1,9 @@
-package org.example.analyzers;
+package org.lr1.analyzers;
 
-import org.example.algorithm.ArrayAlgorithm;
-import org.example.algorithm.MatrixAlgorithm;
-import org.example.utils.Calculus;
-import org.example.utils.Result;
-import org.example.fill.Generator;
-
-import java.util.Random;
+import org.lr1.algorithm.MatrixAlgorithm;
+import org.lr1.utils.Calculus;
+import org.lr1.utils.Result;
+import org.lr1.fill.Generator;
 
 public class MatrixAnalyzer {
     public static void analyze(MatrixAlgorithm algorithm,

@@ -1,6 +1,6 @@
-package org.example.algorithm;
+package org.lr1.algorithm;
 
-import org.example.utils.Result;
+import org.lr1.utils.Result;
 
 public class ScalarMatrix implements MatrixAlgorithm{
     @Override

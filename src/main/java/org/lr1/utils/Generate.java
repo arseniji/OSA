@@ -1,4 +1,4 @@
-package org.example.utils;
+package org.lr1.utils;
 
 import java.util.Random;
 

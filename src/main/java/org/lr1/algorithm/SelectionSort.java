@@ -1,8 +1,8 @@
-package org.example.algorithm;
+package org.lr1.algorithm;
 
-import org.example.fill.Generator;
-import org.example.utils.Result;
-import org.example.utils.Sorting;
+import org.lr1.fill.Generator;
+import org.lr1.utils.Result;
+import org.lr1.utils.Sorting;
 
 public class SelectionSort implements ArrayAlgorithm{
     Generator<int[]> generatorStrategy;

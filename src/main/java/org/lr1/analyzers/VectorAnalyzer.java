@@ -1,10 +1,9 @@
-package org.example.analyzers;
+package org.lr1.analyzers;
 
-import org.example.algorithm.ArrayAlgorithm;
-import org.example.algorithm.VectorAlgorithm;
-import org.example.utils.Calculus;
-import org.example.utils.Result;
-import org.example.fill.Generator;
+import org.lr1.algorithm.VectorAlgorithm;
+import org.lr1.utils.Calculus;
+import org.lr1.utils.Result;
+import org.lr1.fill.Generator;
 
 public class VectorAnalyzer {
     public static void analyze(VectorAlgorithm algorithm,

@@ -1,8 +1,8 @@
-package org.example.analyzers;
+package org.lr1.analyzers;
 
-import org.example.algorithm.ArrayAlgorithm;
-import org.example.utils.Calculus;
-import org.example.utils.Result;
+import org.lr1.algorithm.ArrayAlgorithm;
+import org.lr1.utils.Calculus;
+import org.lr1.utils.Result;
 
 public class ArrayAnalyzer {
     public static void analyze(ArrayAlgorithm algorithm, int startPow, int endPow){

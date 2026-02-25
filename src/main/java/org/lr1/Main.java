@@ -1,12 +1,10 @@
-package org.example;
+package org.lr1;
 
-import org.example.algorithm.*;
-import org.example.analyzers.ArrayAnalyzer;
-import org.example.analyzers.MatrixAnalyzer;
-import org.example.analyzers.VectorAnalyzer;
-import org.example.fill.*;
-
-import java.util.Arrays;
+import org.lr1.algorithm.*;
+import org.lr1.analyzers.ArrayAnalyzer;
+import org.lr1.analyzers.MatrixAnalyzer;
+import org.lr1.analyzers.VectorAnalyzer;
+import org.lr1.fill.*;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
-package org.example.algorithm;
-import org.example.utils.Result;
+package org.lr1.algorithm;
+import org.lr1.utils.Result;
 
 public interface ArrayAlgorithm extends Analyzable,Fillable{
     Result run(int size);

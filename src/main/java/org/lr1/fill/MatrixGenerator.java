@@ -1,4 +1,4 @@
-package org.example.fill;
+package org.lr1.fill;
 
 public class MatrixGenerator implements Generator<int[][]>{
     @Override

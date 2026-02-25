@@ -1,8 +1,8 @@
-package org.example.algorithm;
+package org.lr1.algorithm;
 
-import org.example.utils.Result;
-import org.example.utils.Sorting;
-import org.example.fill.Generator;
+import org.lr1.utils.Result;
+import org.lr1.utils.Sorting;
+import org.lr1.fill.Generator;
 
 public class BubbleSort implements ArrayAlgorithm {
     Generator<int[]> generatorStrategy;
